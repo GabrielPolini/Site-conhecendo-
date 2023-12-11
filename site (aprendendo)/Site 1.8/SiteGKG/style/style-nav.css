@@ -1,0 +1,16 @@
+.bg-gradient{
+    background: linear-gradient(70deg, #272d2e, #418a8f) !important; 
+}
+.bg-footer {
+    background: linear-gradient(70deg, #418a8f, #272d2e) !important;
+}
+.bg-footer img {
+    height: 50px;
+    width: 50px;
+    padding-right: 8px;
+}
+.ima-wa img {
+    height: 50px;
+    width: 50px;
+}
+

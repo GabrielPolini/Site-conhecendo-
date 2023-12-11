@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    
+    background-color:rgba(82, 229, 248, 0.774);
+    color:white;
+    font-size: 35px;
+}
+header{
+    background: #aec6cf;
+    padding: 20px 30px;
+    max-width: 940px;
+    margin: auto;
+}
+
+strong{
+    font-size: 15px;
+}
+
